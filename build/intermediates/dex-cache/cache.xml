@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\16eb3b5d6a45ae16bcd31248e357bd96ebfb2d29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f34c132eee1f82d05744419e15b2beb6ba46bea">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_42968f8bfa0a3f439954aca5f0b184c709c41600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\666275553cefe26542b386d28f532cf1b06116c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_7bc2cd460b7e0532f2b146732279e00267d89d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\8c78882b30e72125fc514ca2a26d92d525f0938e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_20586d275516d631762a2ba5ccc546bd030451f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\3bc5770085ec33dd96ba91f1431e58469660ec1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="019dc75760bad4da9bb73a168601eede6a9dd981">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_97daffcc917f141561c6a388d427ca92d3f0596d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\a41e04edbc7a7ce5160ba875c89b6b87199e2e4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_28360d11334bbb06b3c692dd2746af76bc4fa4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\32947b24de5bdd3780683463f403d45e7023f0f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_c4c46cd41ad2ec180e636bb9c94fcdab125c02a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\7bf9d67d5ee03764a46792dbc670d84e66505bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c73c2c2fc7e9ab6fad571a26b12364aba5461ef">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_3e74938cb669172e37f278ca2844156e483ef1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\c133e1923a551a62984df51d58c408bfa83b1d33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_16eeda6442e82b003e2bb1b650267486adc3e5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2ed36c83da82cbaa1d037427f4faedf1c90ad18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\16a50e053a50ba2737b6ed2d878fc1f0a44c9c49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_f67a9877038ebc5254ee2928008d55b3c50de774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\5620e2a1b2eed4443193d5781e043605af9ec706\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c41b9b00f7da9e8fcc6d45af96662699ad3b8c0">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_2cdb62820affd343f78d5b94d86cc2ba3d47f18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\b8c828d015c2a17b0747336c024124fb5a9ed204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6314fd1ca55eb2a72d2f6030e4996a2a806eaf25">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_02c8182854afa0c040a6f51c6ccb2db1f6d9480a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\a0b433d97d534b6583563b40c5e10fb7ca38f744\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_fb61586703d59244ebe4d9ff65869f1d8340cfcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\96026fc67900d4dbf01deaa9291320a565481ade\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_fddedf1d938f9895b80753bfece97b4d03902a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\annotations-13.0_03d404ab163385052169d408def8b6a43408050b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\9896c806c3147c6eb337ffa93b31a43c889f48df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_7f355bc419e732686f1c3e228c34441f178df9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.3-2_8039653253b4d7a3322be76975726efa16b8f4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d040e24b25b16394a9fbd7c7904eb4cf29fb961b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_876f53e9f61f657b9e8982e5d17ad567cf89d633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\66d37c3f5f60868503959961f54b06fdd68bac5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7ef392d8f694650fb9742790a288fda94e6966b">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_bfa2b9bb669caad800edfa3c2fca07e7668e9580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.3-2_96870b46f6dcec5fdce01519e9316ee5e18a7c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\620636c6fee90dad1aa98501b876605dbae44ab3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_5df363375648bb04d683972de0a29bbee9a7f0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\3d9637e34ca1baac34023fde8c482d3971c05b5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_e1ef5f791195aadd54e8395f5c4ff2a6f87c4374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\2ad0baca305b29721c78454ffcc64ef84c7474c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_92b50c5525d16f3928b7c6c6f2ec18e6ef37d3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LapTop\.android\build-cache\41addb6defa2e4a2af301627695ba83cb24397b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\LapTop\Documents\AndroidProject\capturephoto\app\build\intermediates\pre-dexed\debug\classes_1e6e29c9a9784390bce77b17c81f956edbc4946a.jar" />
+    </item>
+
+</items>

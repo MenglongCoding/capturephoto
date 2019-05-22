@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mlbuz.capturephoto.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/img_photo_left"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@android:color/darker_gray"
+            android:onClick="validatePermissions"
+            app:failureImage="@drawable/ic_image_error"
+            app:failureImageScaleType="center"
+            app:placeholderImage="@drawable/ic_add_a_photo_black"
+            app:placeholderImageScaleType="center" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/img_photo_right"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@android:color/darker_gray"
+            android:onClick="validatePermissions"
+            app:failureImage="@drawable/ic_image_error"
+            app:failureImageScaleType="center"
+            app:placeholderImage="@drawable/ic_add_a_photo_black"
+            app:placeholderImageScaleType="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#4CAF50"
+            android:text="Scan" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#F44336"
+            android:text="Submit" />
+
+    </LinearLayout>
+
+</RelativeLayout>
